@@ -15,3 +15,6 @@ There are 3 ways to install this theme
 1. Install it as a Ruby Gem (For self-hosted sites)
 2. Install it with the `jekyll-remote-theme` plugin (for GitHub Pages hosted sites)
 3. Fork the project directly
+
+### Ruby Gem method
+
