@@ -27,7 +27,7 @@ gem "tale"
 $ bundle
 ```
 3. In `_config.yml` add these lines:
-```
+```yaml
 theme:       tale
 
 permalink:   /:year-:month-:day/:title
@@ -37,6 +37,7 @@ Remove any other `theme:` lines.
 
 4. Rename `index.md` to `index.html`. Without this, the `jekyll-paginate` gem will not work.
 5. In `about.md`, change the `layout:` field to `post`:
-  layout: post
- 
+```
+layout: post
+```
 ### GitHub Pages method
