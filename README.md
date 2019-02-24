@@ -36,9 +36,9 @@ end code block
 
 -----
 
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-++underline++
-~~cancelline~~
+*its just single?*
+_its just single, too._
+**폰트바뀌나요1myfont**
+__폰트바뀌나요2myfont__
+++밑줄그어줘++
+~~쌉소리개소리~~
