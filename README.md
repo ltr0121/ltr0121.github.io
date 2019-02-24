@@ -26,3 +26,12 @@ this is a normal paragraph:
     아... 이렇게 계속된다고?
     
 end code block
+
+* * *
+
+***
+*****
+
+- - -
+
+-----
