@@ -35,3 +35,10 @@ end code block
 - - -
 
 -----
+
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+++underline++
+~~cancelline~~
